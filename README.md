@@ -1,14 +1,19 @@
-#**Healthcare-Data-Analysis-Project-**
+**Healthcare-Data-Analysis-Project-**
+
 _Analysis of 55k health records using Excel and Power Query_
 
 Dataset link on Kaggel:
 https://www.kaggle.com/datasets/prasad22/healthcare-dataset
 
+My Linked-In Account :
+https://www.linkedin.com/in/omar-hussein-analyst-663019400
+
 # Steps to modify data before the analysis process
 1. **I added a conditional column called “Age Group”**
    to determine the age group of the case according to the number of years it is old.
 
-   _This is to facilitate the analysis process and understand which age groups are the most sick and which diseases are affected and tounderstand whether there is a relationship between increasing the age of the case and the number of cases and other analyses._
+   _This is to facilitate the analysis process and understand which age groups are the most sick and which diseases are affected and
+    tounderstand whether there is a relationship between increasing the age of the case and the number of cases and other analyses._
 
 2. **I added a column called “Duration”**
 
@@ -53,5 +58,3 @@ _If you want a summary of what I reached from the analysis, I have placed the fi
 
 **Dashboard of statistical analysis of disease cases** :
 <img width="1028" height="592" alt="General Overview Dashboard" src="https://github.com/user-attachments/assets/d05eb10b-a06d-43c9-834c-90d6fb2c66e5" />
-
-.مارأيك بهذا الوصف لمشروعى على جت هاب
